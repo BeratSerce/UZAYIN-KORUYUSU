@@ -7,7 +7,7 @@ public class oyuncu_lazer_kontrol : MonoBehaviour
     float speed;
     void Start()
     {
-        speed = 8f;
+        speed = 9f;
     }
 
     
